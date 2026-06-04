@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**elina-web-magic/elina-web-magic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🐾 Petstok — Pet Social Media Platform
 
 A production-grade Next.js application with a two-layer AI pipeline
