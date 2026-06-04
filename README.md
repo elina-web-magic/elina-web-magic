@@ -17,7 +17,7 @@ for automated pet video analysis.
 - ⚡ Graceful fallback pipeline
 
 > 📁 Repository is private. To request access for review:
-> **[Send a request →](mailto:your@email.com)**
-> or connect on [LinkedIn](https://linkedin.com/in/your-profile)
+> **[Send a request →](mailto:elina.dzhelilova@gmail.com)**
+> or connect on [LinkedIn](https://linkedin.com/in/elina-dzhelilova-senior-frontend)
 
-[![Request Access](https://img.shields.io/badge/Petstok-Request%20Access-7c3aed?style=for-the-badge&logo=github)](mailto:your@email.com)
+[![Request Access](https://img.shields.io/badge/Petstok-Request%20Access-7c3aed?style=for-the-badge&logo=github)](mailto:elina.dzhelilova@gmail.com)
